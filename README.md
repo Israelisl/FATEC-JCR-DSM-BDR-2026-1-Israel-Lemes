@@ -9,16 +9,19 @@
 
 ## 🎯 Sobre a Disciplina
 
-Repositório destinado ao armazenamento das atividades, conteúdos e projeto desenvolvido na disciplina de Banco de Dados Relacional do 2° Semestre.
+Repositório destinado ao armazenamento das atividades, conteúdos e projeto desenvolvido na disciplina de **Banco de Dados Relacional**.
+
+- **Semestre letivo:** 2026/1  
+- **Semestre do curso:** 2º semestre  
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura
 
 - **P1**  
-- **P2** 
+- **P2**  
 - **Requisitos-ABP**  
-- **Reflexoes**  
+- **Reflexoes** 
 
 ---
 
@@ -32,6 +35,4 @@ Descrição do problema escolhido.
 
 Registro reflexivo sobre:
 - Evolução técnica
-- Dificuldades enfrentadas
-- Conceitos consolidados
 - Aplicações práticas desenvolvidas
