@@ -7,7 +7,7 @@ Atividade individual sobre relatorios avancados no banco `biblioteca`, combinand
 | Arquivo | Tipo |
 | --- | --- |
 | [BDR-Atividade-Aula10-Descricao.pdf](BDR-Atividade-Aula10-Descricao.pdf) | Enunciado da atividade |
-| [BDR-Atividade-Aula10.pdf](BDR-Atividade-Aula10.pdf) | Entrega do aluno |
+| [BDR-Atividade-Aula10.pdf](BDR-Atividade-Aula10pdf.pdf) | Entrega do aluno |
 
 ## Detalhamento
 
