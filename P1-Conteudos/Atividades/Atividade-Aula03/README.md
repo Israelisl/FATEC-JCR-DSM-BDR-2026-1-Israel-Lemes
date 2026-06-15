@@ -1,45 +1,14 @@
-Atividade – Aula 03
-DER – Sistema de Aluguel de Carros
-Descrição
+# Atividade - Aula 03
 
-Desenvolvimento de um Diagrama Entidade-Relacionamento (DER) para um sistema de aluguel de carros, conforme os requisitos propostos em aula.
+Atividade individual de modelagem conceitual com Diagrama Entidade-Relacionamento para um sistema de aluguel de carros.
 
-Entidades
+## Arquivos
 
-Cliente
+| Arquivo | Tipo |
+| --- | --- |
+| [BDR-Atividade-Aula03-Descricao.pdf](BDR-Atividade-Aula03-Descricao.pdf) | Enunciado da atividade |
+| [BDR-Atividade-Aula03.pdf](BDR-Atividade-Aula03.pdf) | Entrega do aluno |
 
-id_cliente (PK)
+## Registro
 
-nome
-
-cpf
-
-Carro
-
-id_carro (PK)
-
-modelo
-
-placa
-
-Aluguel
-
-id_aluguel (PK)
-
-id_cliente (FK)
-
-id_carro (FK)
-
-data_inicio
-
-data_fim_prevista
-
-data_fim_real
-
-Relacionamentos
-
-Um Cliente pode realizar vários Aluguéis (1:N).
-
-Um Carro pode estar associado a vários Aluguéis (1:N).
-
-As chaves estrangeiras estão definidas na entidade Aluguel.
+A atividade trabalha identificacao de entidades, atributos, chaves e relacionamentos a partir de requisitos propostos em aula.
